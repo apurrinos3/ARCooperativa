@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: 5acc696dc77533741b578631fce29f30
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499677]_Light
+    100002: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499730]_Light
+    100004: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499778]_Light
+    100006: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499897]_Light
+    100008: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499929]_Light
+    100010: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499951]_Light
+    100012: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499984]_Light
+    100014: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500022]_Light
+    100016: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500063]_Light
+    100018: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500103]_Light
+    100020: //RootNode
+    100022: ProyectoenRevit2019
+    100024: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911136]_Light
+    100026: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911137]_Light
+    100028: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911236]_Light
+    100030: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911250]_Light
+    100032: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911272]_Light
+    100034: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2946203]_Light
+    100036: Sun Positioner
+    400000: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499677]_Light
+    400002: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499730]_Light
+    400004: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499778]_Light
+    400006: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499897]_Light
+    400008: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499929]_Light
+    400010: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499951]_Light
+    400012: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499984]_Light
+    400014: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500022]_Light
+    400016: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500063]_Light
+    400018: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500103]_Light
+    400020: //RootNode
+    400022: ProyectoenRevit2019
+    400024: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911136]_Light
+    400026: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911137]_Light
+    400028: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911236]_Light
+    400030: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911250]_Light
+    400032: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911272]_Light
+    400034: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2946203]_Light
+    400036: Sun Positioner
+    2100000: Rockwool RoFeu E 520
+    2100002: Tarima flotante
+    2100004: PLADUR
+    2100006: REDArt Acabado Silicato
+    2100008: "Tela asf\xE1ltica"
+    2100010: Hormigon_in situ
+    2100012: Aluminio Gris oscuro
+    2100014: Pizarra
+    2100016: Chapado Granito Gris
+    2100018: Generic
+    2100020: Chapado Granito Gris 100x50
+    2100022: Gris grafito
+    2100024: Hormigon_Losa armada
+    2100026: "Bloque Hormig\xF3n"
+    2100028: Hormigon_Pasta autoniveladora
+    2100030: "Baldosa hormig\xF3n imitaci\xF3n granito"
+    2100032: Placa de yeso laminado de 1.5cm de espesor
+    2100034: Monocapa Color Arena
+    2100036: Monocapa Ocre oscuro
+    2100038: Steel, Paint Finish, Ivory, Glossy
+    2100040: PVC, Blanco
+    2100042: Birch
+    2100044: Hormigon_Central
+    2100046: Metal - Cromo pulido
+    2100048: Madera - Nogal Natural
+    2100050: Porcelana
+    2100052: Azulejo Piscina
+    2100054: Concrete - Cast In Situ
+    2100056: "Marr\xF3n oscuro_roble pantanoso kommerling"
+    2100058: white paint color NCS 0500-N
+    2100060: "Solado imitaci\xF3n madera"
+    2100062: Zinc
+    2100064: CORTEN
+    2100066: Door - Frame
+    2100068: Door - Panel
+    2100070: Glass
+    2100072: PVC WHITE
+    2100074: Phase - New
+    2100076: Cristal - Cristalera transparente - bajo E
+    2100078: "PVC K\xD6MMERLING formulaci\xF3n K\xF6malit"
+    2100080: Chrome Plating
+    2100082: Push Button
+    2100084: Metal - Stainless
+    2100086: Vidrio 6+4+ 6mm bajo emisivo
+    2100088: "Polyur\xE9thane couleur NCS 0500-N"
+    2100090: Standard, gain solaire extra (--50)
+    2100092: Deux couches d'aluminium
+    2100094: White Finish
+    2100096: "L\xE1mina Impermeable Bituminosa"
+    2100098: Kilincs
+    2100100: Glass Doors
+    2100102: Solid Walls
+    2100104: Shower Head
+    2100106: Water Valve Cold Insert
+    2100108: Valve Knobs
+    2100110: Water Valve Hot Insert
+    2100112: Water Valve  Other Insert
+    2100114: Base
+    2100116: Seat
+    2100118: Drain
+    2100120: Acero Gris Grafito
+    2100122: Hierba
+    2100124: GRAVA
+    2100126: POZO
+    2100128: Tabique vcc
+    2100130: "Hormig\xF3n"
+    2100132: Metal - Cromo
+    2100134: Textil - Blanco
+    2100136: chairleg-wood
+    2100138: chair-white fabric
+    2100140: CW_Wood_1
+    2100142: CW_PB_Leather
+    2100144: BMCD2AR3_Solid Materials _Flat Colors_Smooth_White
+    2100146: BMCD2AR3_Solid Materials _Matte_Normal_White
+    2100148: BMCD2AR3_Solid Materials _Matte_Textured_Gray, dark
+    2100150: Feet
+    2100152: Clear
+    2100154: Blue LED
+    2100156: Black Plastic
+    2100158: TV
+    2100160: white plastic
+    2100162: Modern Glass and Wood Coffee Table - Steel
+    2100164: Modern Glass and Wood Coffee Table - Wood
+    2100166: Modern Glass and Wood Coffee Table - Glass
+    2100168: Modern Lamp - Wood Stand
+    2100170: Modern Lamp - Shade
+    2100172: Fabric Modern Sofa - Wood
+    2100174: Fabric Modern Sofa - Fabric
+    2100176: Piel blanca
+    2100178: Acero inoxidable brillante
+    2100180: Glass Panel
+    2100182: Wood Panel
+    2100184: oak
+    2100186: Fabric
+    2100188: Furniture - HIGH TOWER - FourCast - Top
+    2100190: Furniture - HIGH TOWER - FourCast - Leg
+    2100192: 3 Seater LC2 Petit Sofa
+    2100194: 3 Seater LC2 Petit Sofa Frame
+    2100196: Metal Panel
+    2100198: Metal - Chrome
+    2100200: Metal - Paint Finish - Ivory, Matte
+    2100202: fridge capping
+    2100204: led buttons blue
+    2100206: ice panel
+    2100208: Stainless Steel
+    2300000: ProyectoenRevit2019
+    3300000: ProyectoenRevit2019
+    4300000: ProyectoenRevit2019
+    9500000: //RootNode
+    10800000: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499677]_Light
+    10800002: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499730]_Light
+    10800004: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499778]_Light
+    10800006: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499897]_Light
+    10800008: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499929]_Light
+    10800010: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499951]_Light
+    10800012: Downlight-Simon-706 3100K, Flood, IP20, on-off [2499984]_Light
+    10800014: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500022]_Light
+    10800016: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500063]_Light
+    10800018: Downlight-Simon-706 3100K, Flood, IP20, on-off [2500103]_Light
+    10800020: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911136]_Light
+    10800022: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911137]_Light
+    10800024: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911236]_Light
+    10800026: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911250]_Light
+    10800028: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2911272]_Light
+    10800030: Sofa_Coffee_Table_and_Floor_Lamp_BLANCO Sofa_Coffee_Table_and_Floor_Lamp_BLANCO
+      [2946203]_Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 Seater LC2 Petit Sofa
+    second: {fileID: 2100000, guid: d33de4289fd2b234cb8933b5db302b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3 Seater LC2 Petit Sofa Frame
+    second: {fileID: 2100000, guid: 20cc2b4ccfd39d04fa8d578412fda444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acero Gris Grafito
+    second: {fileID: 2100000, guid: 0ed01dbe821cf1b41bec17a3905886a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acero inoxidable brillante
+    second: {fileID: 2100000, guid: 17b0e8c98eca947468b4c88f88ad6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminio Gris oscuro
+    second: {fileID: 2100000, guid: ef2636491eaa4514198d6079b413ddca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Azulejo Piscina
+    second: {fileID: 2100000, guid: 5f30d68b574eb7540a1e72df32b989e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid Materials _Flat Colors_Smooth_White
+    second: {fileID: 2100000, guid: 142246de910d3d4479049d63a7405f71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid Materials _Matte_Normal_White
+    second: {fileID: 2100000, guid: 81fc7b6db90c5494abc4101139475bda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid Materials _Matte_Textured_Gray, dark
+    second: {fileID: 2100000, guid: c277f8a08920b1344b1a1da38c138f59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Baldosa hormig\xF3n imitaci\xF3n granito"
+    second: {fileID: 2100000, guid: 6adb22de94cbd8e4bba3cc2e7a0cc8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 0c02a5837bb54ba4a8271e4115420532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Birch
+    second: {fileID: 2100000, guid: 4a528ff02dbe78846a6a4f7c9a45abe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic
+    second: {fileID: 2100000, guid: 163fa3da3154ac546b5c53124d5742d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Bloque Hormig\xF3n"
+    second: {fileID: 2100000, guid: 4a7e64c579dbcde448ad80bd6cf90602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue LED
+    second: {fileID: 2100000, guid: d5cab48dce451fe41a5443d2c15b5a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORTEN
+    second: {fileID: 2100000, guid: 9b36b12bd93c3cd4cbfea947aabaf0cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CW_PB_Leather
+    second: {fileID: 2100000, guid: ad96bfd31d55ab74490d13a6e60e71d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CW_Wood_1
+    second: {fileID: 2100000, guid: 28cc60c655ec5924e8acc2cba65e6bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chapado Granito Gris
+    second: {fileID: 2100000, guid: 8e35cd0c213ab4a44a2e02b6b49233a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chapado Granito Gris 100x50
+    second: {fileID: 2100000, guid: e39192dd102cf024c9db73b1f4a3c9bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Plating
+    second: {fileID: 2100000, guid: 5ba5f90cfd2b9b645be939f98308832e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clear
+    second: {fileID: 2100000, guid: 7270357df482b6447ab16ecdd2059aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete - Cast In Situ
+    second: {fileID: 2100000, guid: b45f49a45989adb478830e9f68fba3d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cristal - Cristalera transparente - bajo E
+    second: {fileID: 2100000, guid: edcf635c8cd9cae40aecef6856b27500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deux couches d'aluminium
+    second: {fileID: 2100000, guid: ae56b7ec20e55af4d930ff1ed65e7ea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Frame
+    second: {fileID: 2100000, guid: 5446edbb795cc2944b3f22e92c130c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door - Panel
+    second: {fileID: 2100000, guid: 726378accd25efd488520251099401d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drain
+    second: {fileID: 2100000, guid: 118191910c2d16d4a872fc6646ea0deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric
+    second: {fileID: 2100000, guid: d8ad98a5b807b1340b2beb30adb5f5d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric Modern Sofa - Fabric
+    second: {fileID: 2100000, guid: b3bf769f572cfe0418c17fee83413359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric Modern Sofa - Wood
+    second: {fileID: 2100000, guid: 3ca6758740d79af4981b475300e7caa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Feet
+    second: {fileID: 2100000, guid: 387b7301f73651d44856bfdf056032ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Furniture - HIGH TOWER - FourCast - Leg
+    second: {fileID: 2100000, guid: 08aae0dd6ed8f5a4185ebb328ba1c541, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Furniture - HIGH TOWER - FourCast - Top
+    second: {fileID: 2100000, guid: efc420f72caa2ab41acbfcb931fdec8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRAVA
+    second: {fileID: 2100000, guid: f297fe23a2ac9b148801268fa697ffe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic
+    second: {fileID: 2100000, guid: e99595f020f4db14f8674aaaa458c21b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 821306f50c9fa7f48af48601b2132246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Doors
+    second: {fileID: 2100000, guid: 0938e569aa94e96439bc2a1e7026b2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Panel
+    second: {fileID: 2100000, guid: c03a768f20079cd4483a4e258ce2cfff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris grafito
+    second: {fileID: 2100000, guid: b7e4eb0a466588245b46edd700900f5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hierba
+    second: {fileID: 2100000, guid: c3015e348240eb0458aa39a5acded738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hormigon_Central
+    second: {fileID: 2100000, guid: d80b913088f36e44fa56960e53cfe5e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hormigon_Losa armada
+    second: {fileID: 2100000, guid: f27c9dc08a00ad74094ee9668c808bf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hormigon_Pasta autoniveladora
+    second: {fileID: 2100000, guid: 43e600355df2ec84c899efc89d3541b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hormigon_in situ
+    second: {fileID: 2100000, guid: af682aeea8e74b4459e94428d2170515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Hormig\xF3n"
+    second: {fileID: 2100000, guid: a62b0431f18c97648a186da8ad72f6dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kilincs
+    second: {fileID: 2100000, guid: 03c11828abd61d54b883b3cdf165b5ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "L\xE1mina Impermeable Bituminosa"
+    second: {fileID: 2100000, guid: 51dd0e9900d6ea141836deae4e455d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madera - Nogal Natural
+    second: {fileID: 2100000, guid: 312353a238bcd0a47927a6fce64f6d0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Marr\xF3n oscuro_roble pantanoso kommerling"
+    second: {fileID: 2100000, guid: 68fdcb02ad71ed942972f5fa90badf13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Chrome
+    second: {fileID: 2100000, guid: bf1b4b7187b81754594b45b91e2448e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Cromo
+    second: {fileID: 2100000, guid: f39d415ca545bfb4ca7eabcadda7f680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Cromo pulido
+    second: {fileID: 2100000, guid: df4db4c0a1d3c484ea7de44fc93418e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Paint Finish - Ivory, Matte
+    second: {fileID: 2100000, guid: 31c486300bed8414e85317c1da083de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal - Stainless
+    second: {fileID: 2100000, guid: 5f9f5e8f866ef6d488a8f77911997a8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Panel
+    second: {fileID: 2100000, guid: 22fe9d49c6bb08946b9585e38725dbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Modern Glass and Wood Coffee Table - Glass
+    second: {fileID: 2100000, guid: 2bcedeb00f7e3f844a886d5b0c6055bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Modern Glass and Wood Coffee Table - Steel
+    second: {fileID: 2100000, guid: f92fb545da627ac4ab920e6831976f34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Modern Glass and Wood Coffee Table - Wood
+    second: {fileID: 2100000, guid: 2ccc1b91f9883054db0c4065713c4149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Modern Lamp - Shade
+    second: {fileID: 2100000, guid: 7f249c8e3da108440b0bba818b10113d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Modern Lamp - Wood Stand
+    second: {fileID: 2100000, guid: 4ee2b18f83c321a48b524c7211f12c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monocapa Color Arena
+    second: {fileID: 2100000, guid: 24ac086f164dbc740b4598106fe0bf2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monocapa Ocre oscuro
+    second: {fileID: 2100000, guid: afcbdd17e41f4b64c920500f1318df2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLADUR
+    second: {fileID: 2100000, guid: 89de1773bb5901f48b991a33d724d03b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: POZO
+    second: {fileID: 2100000, guid: 50a0e498aa2c27c4d8c6d69736f54c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "PVC K\xD6MMERLING formulaci\xF3n K\xF6malit"
+    second: {fileID: 2100000, guid: b3ec723c79c3c31409c39ccd38061338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC WHITE
+    second: {fileID: 2100000, guid: 4de5ccbe8981b8b45babc0b9075b04ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC, Blanco
+    second: {fileID: 2100000, guid: 62a2dafc4e279ff4c9f0fcf451700451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phase - New
+    second: {fileID: 2100000, guid: 895f355548c60d54bb266eddc4d20b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piel blanca
+    second: {fileID: 2100000, guid: 0c8dab7ef24838348a5636a2b1c60a0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pizarra
+    second: {fileID: 2100000, guid: c27a31601ccaf6841afd1d3fef052445, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Placa de yeso laminado de 1.5cm de espesor
+    second: {fileID: 2100000, guid: 4a25af1a575e96c41ad0d4c02e1bd083, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Polyur\xE9thane couleur NCS 0500-N"
+    second: {fileID: 2100000, guid: 19f458080db51994c8b56179a6969190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelana
+    second: {fileID: 2100000, guid: a8d1f0211be9f814da4dc000597b60c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Push Button
+    second: {fileID: 2100000, guid: 64282db45d3729044b508e3e072344a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: REDArt Acabado Silicato
+    second: {fileID: 2100000, guid: 0dc0845c058ba7a44b4cf5ebe51172c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rockwool RoFeu E 520
+    second: {fileID: 2100000, guid: ec26456dfddaed64781ff2750b63daae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seat
+    second: {fileID: 2100000, guid: 189c945ff09a3fa48bce36c2ba7ec3cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shower Head
+    second: {fileID: 2100000, guid: 978b0db7069fc9c45a484dcfc5e65904, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Solado imitaci\xF3n madera"
+    second: {fileID: 2100000, guid: f29ea57e4ea4a5142b0de23b78e30627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solid Walls
+    second: {fileID: 2100000, guid: fc98b5d0f2eb9f1478e9cbb2bf7f4854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless Steel
+    second: {fileID: 2100000, guid: 3c164f9d4a004ad47aac352255731199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard, gain solaire extra (--50)
+    second: {fileID: 2100000, guid: 8a09346d2f684fc408bafedd268c1169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel, Paint Finish, Ivory, Glossy
+    second: {fileID: 2100000, guid: 68f021b6adb173a4f8b46e3fc5ed35f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV
+    second: {fileID: 2100000, guid: 571b207bbf08f7849b7f1c240af4e400, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tabique vcc
+    second: {fileID: 2100000, guid: aa7feeffb0263d943a856ffb6613dca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tarima flotante
+    second: {fileID: 2100000, guid: 4f18edfe50a2e5c4a9ca10a412f6ed65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Tela asf\xE1ltica"
+    second: {fileID: 2100000, guid: 571e1c985ccf7674fb85f01fcbe5dba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textil - Blanco
+    second: {fileID: 2100000, guid: 6d4d942a05b03524a93169daebe013fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Valve Knobs
+    second: {fileID: 2100000, guid: d431d9e7461be6b4ebbf81ecada17240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidrio 6+4+ 6mm bajo emisivo
+    second: {fileID: 2100000, guid: c24d8149f11c6744aaf54f7da9f705bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water Valve  Other Insert
+    second: {fileID: 2100000, guid: cac42d9db4a4ed54092216b54515a0d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water Valve Cold Insert
+    second: {fileID: 2100000, guid: fcd2d70d146716f4299fbba63f4f0b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water Valve Hot Insert
+    second: {fileID: 2100000, guid: 745889582a9fb9d40bb7b8f7dd63ee56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Finish
+    second: {fileID: 2100000, guid: 1c6c3337ea132d545b67d3331295ce0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Panel
+    second: {fileID: 2100000, guid: 51cace666adb3524e9f6081b445a9ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zinc
+    second: {fileID: 2100000, guid: 8f3d1d3e1a44dc44cbf6e09599e42f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chair-white fabric
+    second: {fileID: 2100000, guid: 8699d9a6cdb736749afa8d56a862bd6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chairleg-wood
+    second: {fileID: 2100000, guid: db4bcec07d88367488bf875397e4be9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fridge capping
+    second: {fileID: 2100000, guid: 23ea7af1ae7799e47a6b5b5f0921064a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ice panel
+    second: {fileID: 2100000, guid: d1551c2b5301bf44cb4985513a7c3228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: led buttons blue
+    second: {fileID: 2100000, guid: 35a15817a12bc9f44a7e8717488f25ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak
+    second: {fileID: 2100000, guid: b082092508a7e754ebcc9cc50dbe7812, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white paint color NCS 0500-N
+    second: {fileID: 2100000, guid: 6a612ceb20f14874381ea833614474d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white plastic
+    second: {fileID: 2100000, guid: 732f16c23adbe3e48b7424698a4262c7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
