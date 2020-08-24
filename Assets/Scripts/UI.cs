@@ -44,4 +44,37 @@ public class UI : MonoBehaviour
 
         }
     }
+
+    public void MoveUp()
+    {
+        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x, _model.transform.localPosition.y + moveSpeed, _model.transform.localPosition.z);
+    }
+
+    public void MoveDown()
+    {
+        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x, _model.transform.localPosition.y - moveSpeed, _model.transform.localPosition.z);
+
+    }
+
+    public void MoveLeft()
+    {
+        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x + moveSpeed, _model.transform.localPosition.y, _model.transform.localPosition.z);
+
+    }
+
+    public void MoveRight()
+    {
+        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x - moveSpeed, _model.transform.localPosition.y, _model.transform.localPosition.z);
+
+    }
+    public void MoveForward()
+    {
+        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x, _model.transform.localPosition.y, _model.transform.localPosition.z + moveSpeed);
+
+    }
+    public void MoveBackward()
+    {
+        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x , _model.transform.localPosition.y, _model.transform.localPosition.z-moveSpeed);
+
+    }
 }
