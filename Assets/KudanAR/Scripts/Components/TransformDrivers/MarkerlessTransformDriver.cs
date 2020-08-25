@@ -5,11 +5,15 @@ using System.Collections;
 namespace Kudan.AR
 {
     [AddComponentMenu("Kudan AR/Transform Drivers/Markerless Driver")]
+
+
     /// <summary>
     /// The Markerless Transform Driver, which is moved by the tracker when using the Markerless Tracking Method.
     /// </summary>
     public class MarkerlessTransformDriver : TransformDriverBase
     {
+        public GameObject _building1;
+        public GameObject _building2;
         /// <summary>
         /// Reference to the Markerless Tracking Method.
         /// </summary>

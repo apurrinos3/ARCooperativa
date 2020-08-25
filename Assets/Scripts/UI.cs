@@ -7,13 +7,13 @@ public class UI : MonoBehaviour
 {
     public KudanTracker _kudanTracker;	// The tracker to be referenced in the inspector. This is the Kudan Camera object.
     public TrackingMethodMarkerless _markerlessTracking;	// The reference to the markerless tracking method that lets the tracker know which method it is using
-    public GameObject _model;
-    public Text buttonText;
-    private bool buttonUpPressed;
-    private bool buttonDownPressed;
+    public GameObject _building1;
+    public GameObject _building2;
+    private GameObject _modelActive;
+    private bool button1pressed = false;
     public int moveSpeed;
 
-    public void PlaceBuildingClicked()
+    private void PlaceBuilding()
     {
         if (!_kudanTracker.ArbiTrackIsTracking())
         {
@@ -31,50 +31,78 @@ public class UI : MonoBehaviour
         }
     }
 
+    public void PlaceBuilding1Clicked()
+    {
+        PlaceBuilding();
+        _building1.SetActive(true);
+        _building2.SetActive(false);
+    }
+    public void PlaceBuilding2Clicked()
+    {
+        PlaceBuilding();
+        _building2.SetActive(true);
+        _building1.SetActive(false);
+    }
 
     void Update()
     {
+        Text text;
+        text = GameObject.Find("btnPlaceBuildingText1").GetComponent<Text>();
+        if (_building1.activeSelf)
+        {
+            _modelActive = _building1;
+            text.text = "1";
+        }
+        else
+            if (_building2.activeSelf)
+            {
+            _modelActive = _building2;
+            text = GameObject.Find("btnPlaceBuildingText2").GetComponent<Text>();
+            text.text = "2";
+            }
+
+
         if (!_kudanTracker.ArbiTrackIsTracking())
         {
-            buttonText.text = "Place building";
+            text.text = "Place building" + text.text;
         }
         else
         {
-            buttonText.text = "Stop tracking";
+            text.text = "Stop tracking";
 
         }
     }
 
     public void MoveUp()
     {
-        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x, _model.transform.localPosition.y + moveSpeed, _model.transform.localPosition.z);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y + moveSpeed, _modelActive.transform.localPosition.z);
     }
 
     public void MoveDown()
     {
-        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x, _model.transform.localPosition.y - moveSpeed, _model.transform.localPosition.z);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y - moveSpeed, _modelActive.transform.localPosition.z);
 
     }
 
     public void MoveLeft()
     {
-        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x + moveSpeed, _model.transform.localPosition.y, _model.transform.localPosition.z);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x + moveSpeed, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z);
 
     }
 
     public void MoveRight()
     {
-        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x - moveSpeed, _model.transform.localPosition.y, _model.transform.localPosition.z);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x - moveSpeed, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z);
 
     }
     public void MoveForward()
     {
-        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x, _model.transform.localPosition.y, _model.transform.localPosition.z + moveSpeed);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z + moveSpeed);
 
     }
     public void MoveBackward()
     {
-        _model.transform.localPosition = new Vector3(_model.transform.localPosition.x , _model.transform.localPosition.y, _model.transform.localPosition.z-moveSpeed);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z - moveSpeed);
 
     }
 }
