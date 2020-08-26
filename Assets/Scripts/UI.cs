@@ -97,12 +97,12 @@ public class UI : MonoBehaviour
     }
     public void MoveForward()
     {
-        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z + moveSpeed);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z - moveSpeed);
 
     }
     public void MoveBackward()
     {
-        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z - moveSpeed);
+        _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z + moveSpeed);
 
     }
 }

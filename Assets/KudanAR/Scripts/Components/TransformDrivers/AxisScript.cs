@@ -1,23 +1,11 @@
-﻿using UnityEngine;
-using System.Text;
-using System.Collections;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 namespace Kudan.AR
-{
-    [AddComponentMenu("Kudan AR/Transform Drivers/Markerless Driver")]
-
-
-    /// <summary>
-    /// The Markerless Transform Driver, which is moved by the tracker when using the Markerless Tracking Method.
-    /// </summary>
-    public class MarkerlessTransformDriver : TransformDriverBase
+{ 
+public class AxisScript : TransformDriverBase
     {
-        public GameObject _building1;
-        public GameObject _building2;
-        public GameObject _axis;
-        /// <summary>
-        /// Reference to the Markerless Tracking Method.
-        /// </summary>
         private TrackingMethodMarkerless _tracker;
 
         /// <summary>
@@ -59,11 +47,10 @@ namespace Kudan.AR
         /// <param name="trackable">Trackable.</param>
         public void OnTrackingUpdate(Trackable trackable)
         {
-           this.transform.localPosition = trackable.position;
             this.transform.localRotation = trackable.orientation;
-            
+
             this.gameObject.SetActive(trackable.isDetected);
-            _axis.transform.localRotation = trackable.orientation;
         }
     }
-};
+
+}
