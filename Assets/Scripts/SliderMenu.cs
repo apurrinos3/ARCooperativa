@@ -15,7 +15,7 @@ public class SliderMenu : MonoBehaviour
             if (animator != null)
             {
                 bool isOpen = animator.GetBool("show");
-                animator.SetBool("show", !isOpen);
+                animator.SetBool("show",!isOpen);
             }
         }
     }
