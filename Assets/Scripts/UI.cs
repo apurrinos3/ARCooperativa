@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using Kudan.AR;
+using UnityEngine.SceneManagement;
+
 public class UI : MonoBehaviour
 {
     public KudanTracker _kudanTracker;	// The tracker to be referenced in the inspector. This is the Kudan Camera object.
@@ -47,28 +49,29 @@ public class UI : MonoBehaviour
     void Update()
     {
         Text text;
+        string _buildingNumber = "";
         text = GameObject.Find("btnPlaceBuildingText1").GetComponent<Text>();
         if (_building1.activeSelf)
         {
             _modelActive = _building1;
-            text.text = "1";
+            _buildingNumber = "1";
         }
         else
             if (_building2.activeSelf)
             {
             _modelActive = _building2;
             text = GameObject.Find("btnPlaceBuildingText2").GetComponent<Text>();
-            text.text = "2";
+            _buildingNumber = "2";
             }
 
 
         if (!_kudanTracker.ArbiTrackIsTracking())
         {
-            text.text = "Place building" + text.text;
+            text.text = "Situar edificio " + _buildingNumber;
         }
         else
         {
-            text.text = "Stop tracking";
+            text.text = "Parar tracking";
 
         }
     }
@@ -103,6 +106,12 @@ public class UI : MonoBehaviour
     public void MoveBackward()
     {
         _modelActive.transform.localPosition = new Vector3(_modelActive.transform.localPosition.x, _modelActive.transform.localPosition.y, _modelActive.transform.localPosition.z + moveSpeed);
+
+    }
+
+    public void VolverMenu()
+    {
+        SceneManager.LoadScene(0);
 
     }
 }
